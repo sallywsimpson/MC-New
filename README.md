@@ -20,7 +20,12 @@ MVP:
 
 - As an administrator, I want to have an age gate
 
-Other:
+Domain model:
+https://docs.google.com/spreadsheet/ccc?key=0Avh9l_6YzfRydGdscVhoYjcyNzZXX01zbk12Zlc0MVE&usp=drive_web#gid=1
+
+
+
+Other user stories:
 
 As a visitor, I want to know where to buy
 
